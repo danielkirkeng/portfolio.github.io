@@ -1,12 +1,12 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Project
-description : This is the description of my project
-keyword : 
+name : Foundation5/github pages/Jykill starter/portfolio
+brand : Daniel Kirkeng
+description : Portfolio til Daniel Kirkeng.
+keyword : portfolio, Daniel Kirkeng
 url : http://daigofuji.github.io/jekyll-foundation-6-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
+email : daniel@kirkeng.net
+twitter : 
+github : danielkirkeng
+author : Daniel Kirkeng
 year : 2016
 markdown : kramdown
 exclude :
